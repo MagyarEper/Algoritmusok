@@ -1,3 +1,4 @@
+link : [text](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem?isFullScreen=true)
 # Feladatleírás:
 
 Hackerland egy egydimenziós város, ahol a házak egész számokkal jelölt helyeken helyezkednek el az út mentén. A polgármester rádióadók telepítését tervezi a város házainak tetejére. Minden adónak van egy fix hatótávolsága, ami azt jelenti, hogy jelet tud sugározni minden ház felé, amelyik ezen a meghatározott távolságon belül található.
